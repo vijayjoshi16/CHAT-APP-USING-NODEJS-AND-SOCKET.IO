@@ -1,6 +1,7 @@
 <h1>CHAT-APP-USING-NODEJS-AND-SOCKET.IO</h1>
+<img src="https://raw.githubusercontent.com/vijayjoshi16/CHAT-APP-USING-NODEJS-AND-SOCKET.IO/master/Screenshots/0.Logo.png"/>
 <h2>This is a realtime chat app made using Nodejs and SOCKET.IO realtime engine</h2>
-<h2>Follow the below given steps to run this project in your local system</h2>
+<h2>Follow the steps given below to run this project in your local system</h2>
 <ol>
   <li>Clone the repository</li>
   <li>Open your terminal and change the directory to the node folder in the project</li>
